@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3E8B2439-3AE1-4367-BF83-033DE199FCAC}</ProjectGuid>
+    <ProjectGuid>{743C6696-683D-48A6-98BD-76541D38CEB5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>FirstGitWinForm</RootNamespace>
-    <AssemblyName>FirstGitWinForm</AssemblyName>
+    <RootNamespace>NewForm</RootNamespace>
+    <AssemblyName>NewForm</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

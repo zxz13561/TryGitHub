@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\FirstGitWinForm"
+    "\\FirstGitWinForm",
+    "\\FirstGitWinForm\\obj\\Debug\\TempPE"
   ],
   "SelectedNode": "\\FirstGitWinForm\\Form1.cs",
   "PreviewInSolutionExplorer": false

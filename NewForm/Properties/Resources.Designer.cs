@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace FirstGitWinForm.Properties
+namespace NewForm.Properties
 {
     /// <summary>
     ///   用於查詢當地語系化字串等的強類型資源類別
@@ -43,7 +43,7 @@ namespace FirstGitWinForm.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("FirstGitWinForm.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("NewForm.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
